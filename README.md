@@ -1,7 +1,7 @@
 HDC1000 NodeMCU module
 =======================
 
-Here's my NodeMCU module for the TI HDC1000 temperature and humidity sensor. It should work with the HDC1008 too but I haven't tested it.
+Here's my NodeMCU module/library for the TI HDC1000 temperature and humidity sensor. It should work with the HDC1008 too but I haven't tested it.
 
 ### Setup your sensor:
 First, require it:
